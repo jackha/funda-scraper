@@ -1,6 +1,11 @@
 # funda-scraper
 Scraper of the Dutch real estate website [Funda.nl](http://www.funda.nl/), written in Python Scrapy.
 
+My personal fork to play with...
+
+- sudo apt-get install python-pip python-scrapy
+- scrapy crawl funda_spider -a place=amsterdam -o amsterdam.json
+
 ## Basic usage
 There are two spiders: 
 
